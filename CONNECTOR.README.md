@@ -38,6 +38,14 @@ EX:LQFP64-P050-B1
 ***
 
 # Version
+## v1.0.1	
+```
+FileName    : CONNECTOR.PcbLib
+Version     : 1.0.0
+Date        : 2020/11/03
+Maintainer  : Danny
+```
+- add connector USB-MICROB-FEMALE-UL
 
 ## v1.0.0
 ```
