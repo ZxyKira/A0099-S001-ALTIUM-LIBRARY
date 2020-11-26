@@ -22,7 +22,7 @@ for /f %%a in (list) do (
 echo Found %numberOfFile% file need download
 echo.
 for /f "tokens=1,2" %%a in (list) do (
-	set target="%src%/raw/release/%%a"
+	set target="%src%/raw/master/%%a"
 	call echo|set /p="downloading %%b ...	"
 	call bitsadmin /transfer PcblibUpdateJob /download /priority FOREGROUND %%target%% %~dp0\%%b > nul
     echo Finish!
