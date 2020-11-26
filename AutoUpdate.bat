@@ -11,7 +11,7 @@ echo *                                                               Made by Dan
 echo ********************************************************************************
 echo.
 echo Download list from: %src%
-set target="%src%/raw/release/list"
+set target="%src%/raw/master/list"
 call bitsadmin /transfer PcblibUpdateJob /download /priority FOREGROUND %%target%% %~dp0\list > nul
 echo Update finish!
 echo.
