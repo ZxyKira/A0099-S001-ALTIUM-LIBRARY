@@ -38,10 +38,17 @@ EX:LQFP64-P050-B1
 ***
 
 # Version
+## v1.0.2
+```
+FileName    : CONNECTOR.PcbLib
+Date        : 2020/11/03
+Maintainer  : Danny
+```
+- fix connector USB-MICROB-FEMALE-UL keep out layer
+
 ## v1.0.1	
 ```
 FileName    : CONNECTOR.PcbLib
-Version     : 1.0.0
 Date        : 2020/11/03
 Maintainer  : Danny
 ```
@@ -50,7 +57,6 @@ Maintainer  : Danny
 ## v1.0.0
 ```
 FileName    : CONNECTOR.PcbLib
-Version     : 1.0.0
 Date        : 2020/11/03
 Maintainer  : Danny
 ```
