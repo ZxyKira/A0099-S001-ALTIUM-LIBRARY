@@ -59,6 +59,15 @@ EX:LQFP64-P050-B1
 
 # Version
 
+## v1.0.1
+```
+FileName    : CHIP.PcbLib
+Version     : 1.0.1
+Date        : 2020/11/26
+Maintainer  : Danny
+```
+- Fix SOIC P065 pin length 1.5mm to 1.2mm
+
 ## v1.0.0
 ```
 FileName    : CHIP.PcbLib
