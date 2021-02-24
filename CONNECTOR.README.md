@@ -36,8 +36,18 @@ EX:LQFP64-P050-B1
 
 
 ***
-
 # Version
+## v1.0.3
+```
+FileName    : CONNECTOR.PcbLib
+Date        : 2021/02/24
+Maintainer  : Danny
+```
+- add multi VH396-[x]PI, x = 10, 9, 8, 7, 6, 5, 4, 3.
+- add multi VH396-[x]PL, x = 10, 9, 8, 7, 6, 5, 4, 3.
+- add multi IDCI254-[x]PI x = 38, 36
+- add multi IDCI254-[x]PL x = 10, 14, 16
+
 ## v1.0.2
 ```
 FileName    : CONNECTOR.PcbLib
