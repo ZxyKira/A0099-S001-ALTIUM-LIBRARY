@@ -4,7 +4,16 @@
 
 # Version
 
-## v1.0.0
+## v1.0.2
+```
+FileName    : SPECIAL.PcbLib
+Version     : 1.0.2
+Date        : 2020/03/02
+Maintainer  : Danny
+```
+- add FINDER 44.52-1
+
+## v1.0.1
 ```
 FileName    : SPECIAL.PcbLib
 Version     : 1.0.1
