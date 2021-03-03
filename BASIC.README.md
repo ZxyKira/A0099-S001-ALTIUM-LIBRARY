@@ -81,6 +81,15 @@ SIZE : PAD尺寸大小，0 = 較大，1 = 適中，2 = 較小
 
 # Version
 
+## v1.0.1
+```
+FileName    : BASIC.PcbLib
+Version     : 1.0.1
+Date        : 2021/03/03
+Maintainer  : Danny
+```
+- add Screw-Holes-6030
+
 ## v1.0.0
 ```
 FileName    : BASIC.PcbLib
