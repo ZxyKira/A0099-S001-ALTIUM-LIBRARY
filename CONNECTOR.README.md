@@ -37,6 +37,14 @@ EX:LQFP64-P050-B1
 
 ***
 # Version
+## v1.0.4
+```
+FileName    : CONNECTOR.PcbLib
+Date        : 2021/02/24
+Maintainer  : Danny
+```
+- fix IDCI254-34PI pin number
+
 ## v1.0.3
 ```
 FileName    : CONNECTOR.PcbLib
