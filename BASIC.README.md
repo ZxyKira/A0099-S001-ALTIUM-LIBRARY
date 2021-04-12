@@ -81,6 +81,16 @@ SIZE : PAD尺寸大小，0 = 較大，1 = 適中，2 = 較小
 
 # Version
 
+## v1.0.2
+```
+FileName    : BASIC.PcbLib
+Version     : 1.0.2
+Date        : 2021/04/12
+Maintainer  : Danny
+```
+- add 0603JP-A1,B1,C1
+- add 0402JP-A1,B1,C1
+
 ## v1.0.1
 ```
 FileName    : BASIC.PcbLib
